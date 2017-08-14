@@ -1,1 +1,1 @@
-# Welcome to CSCI 110 
+# Welcome to CSCI 110!

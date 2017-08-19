@@ -3,9 +3,9 @@
 [GameController Help](https://dewv.github.io/csci110-retooled/sgc/GameController.html)
 
 ### Tutorials:
-1. [Stranger Hunt](https://dewv.c9.io/csci110-retooled/docs/1_StrangerHunt)
+1. [Stranger Hunt](https://dewv.github.io/csci110-retooled/1_StrangerHunt)
 2. Coming soon ...
-3. ____
+____
 
 ### Announcements:
 To customize this Cloud9 workspace, you should install the csci110 plugin. Follow these steps.

@@ -4,7 +4,7 @@
 
 ### Tutorials:
 1. [Stranger Hunt](https://dewv.github.io/csci110-retooled/1_StrangerHunt)
-2. Coming soon ...
+2. [Wizard's Duel](https://dewv.github.io/csci110-retooled/2_WizardsDuel1.html)
 ____
 
 ### Announcements:

@@ -1,9 +1,18 @@
-# Welcome to CSCI 110!
+## Welcome to CSCI 110!
 
+[GameController Help](https://dewv.github.io/csci110-retooled/sgc/GameController.html)
+
+### Tutorials:
+1. [Stranger Hunt](https://dewv.github.io/csci110-retooled/1_StrangerHunt)
+2. [Wizard's Duel](https://dewv.github.io/csci110-retooled/2_WizardsDuel1.html)
+3. [Castel Break-In](https://dewv.github.io/csci110-retooled/3_CastleBreakIn.html)
+____
+
+### Announcements:
 To customize this Cloud9 workspace, you should install the csci110 plugin. Follow these steps.
 1. Highlight and copy this JavaScript code:
 ```javascript
-if (services.c9.workspaceId.match("csci110")) {
+if (services.c9.workspaceId.match("csci110-YOURNAME")) {
     services.pluginManager.loadPackage([
        "~/.c9/plugins/csci110/package.json"
     ]);
@@ -13,6 +22,4 @@ if (services.c9.workspaceId.match("csci110")) {
 3. Paste the JavaScript code at the bottom of the `init.js` file that appears. Save and close this file.
 4. Force your browser to reload Cloud9, using the `F5` key, or the appropriate button or menu option.
 
-
-You should be good to go, but notice that the plugin will only work for Cloud9 workspaces with the name "csci110".
-
+Notice that the plugin will only work for Cloud9 workspaces with the name that matches your workspace name.

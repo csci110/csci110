@@ -4,7 +4,9 @@
 
 ### Tutorials:
 1. [Stranger Hunt](https://dewv.github.io/csci110-retooled/1_StrangerHunt)
-2. Coming soon ...
+2. [Wizard's Duel](https://dewv.github.io/csci110-retooled/2_WizardsDuel1.html)
+3. [Castle Break-In](https://dewv.github.io/csci110-retooled/3_CastleBreakIn.html)
+
 ____
 
 ### Announcements:
@@ -22,3 +24,4 @@ if (services.c9.workspaceId.match("csci110-YOURNAME")) {
 4. Force your browser to reload Cloud9, using the `F5` key, or the appropriate button or menu option.
 
 Notice that the plugin will only work for Cloud9 workspaces with the name that matches your workspace name.
+
